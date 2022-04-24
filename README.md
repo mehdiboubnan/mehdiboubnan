@@ -19,21 +19,25 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="600" height="300"/>
 </div> -->
 
+<div align="center">
+<img alt="Night Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="200" align="center"/>
+</div> 
 
-#### 👨‍🦱 About Me
 
+### 👨🏻‍💻 &nbsp;About Me
 I am Mehdi, a Data Scientist from France 🇫🇷, born in Morocco 🇲🇦.
-- 🔭 I’m currently working on **Key Information Extraction** and **Text Recognition** [@Mindee](https://www.mindee.com/).
+- 🔭 &nbsp;I’m currently working on **Key Information Extraction** and **Text Recognition** @<a href="https://mindee.com/">
+      <img src="https://img.shields.io/badge/-Mindee-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHBhdGggZD0iTTE4LjMyOSAwaDEzLjc0NnYzMkgxOC4zM1YyNy40M2g5LjE2NFY0LjU3MkgxOC4zM1Ywek00LjU4MiAxMy43MTRWMjcuNDNoOS4xNjVWMzJIMFYwaDEzLjc0N3Y0LjU3MUg0LjU4MnY5LjE0M3ptNC41ODIgMHYtNC41N2gxMy43NDd2NC41N0g5LjE2NHptMCA5LjE0M3YtNC41NzFoNC41ODN2NC41NzFIOS4xNjR6IiBmaWxsPSIjRkQzMjQ2Ii8+PC9zdmc+" alt="Mindee Badge"/>
+    </a>
+    
+- 🌱 &nbsp;Currently Learning about Effective Python development.
 
-- 🌱 Currently Learning about Effective Python development.
-
-- 😍 I'm passionate about open source and new technologies.
+- 😍 &nbsp;I'm passionate about open source and new technologies.
  
-- 😄 What I do in my free time : 📸 🏎️ ⚽ 🎮
+- 😄 &nbsp;What I do in my free time : 📸 🏎️ ⚽ 🎮
 
 
-
-#### :hammer_and_wrench: Languages and Tools :
+### 🛠️ &nbsp;Tech Stack
 - Programming languages : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-A8A4A3?style=flat&logo=r&logoColor=white)
@@ -61,6 +65,10 @@ I am Mehdi, a Data Scientist from France 🇫🇷, born in Morocco 🇲🇦.
 - IDE :
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=boubnanm&count_private=true&show_icons=true&locale=en" alt="boubnanm" />  
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+<a href="https://github.com/boubnanm">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=boubnanm&custom_title=My Personal GitHub Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" alt="boubnanm" />  
+</a>
+<a href="https://github.com/boubnanm">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdimindee&custom_title=My Work GitHub Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" alt="mehdimindee" />  
+</a>
