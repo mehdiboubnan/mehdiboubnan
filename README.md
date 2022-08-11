@@ -20,7 +20,7 @@
 </div> -->
 
 <div align="center">
-<img alt="Night Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="200" align="center"/>
+<img alt="Night Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="370" align="center"/>
 </div> 
 
 
