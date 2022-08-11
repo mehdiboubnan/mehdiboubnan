@@ -66,11 +66,12 @@ I am Mehdi, a Data Scientist from France 🇫🇷, born in Morocco 🇲🇦.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/boubnanm">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=boubnanm&custom_title=My Personal GitHub Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="boubnanm" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=boubnanm&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="boubnanm" />  
 </a>
-<a href="https://github.com/boubnanm">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdimindee&custom_title=My Work GitHub Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdimindee" />  
+<a href="https://github.com/mehdimindee">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdimindee&custom_title=My%20Work%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdimindee" />  
 </a>
 </p>
