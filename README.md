@@ -30,7 +30,7 @@ I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, b
       <img src="https://img.shields.io/badge/-Mindee-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHBhdGggZD0iTTE4LjMyOSAwaDEzLjc0NnYzMkgxOC4zM1YyNy40M2g5LjE2NFY0LjU3MkgxOC4zM1Ywek00LjU4MiAxMy43MTRWMjcuNDNoOS4xNjVWMzJIMFYwaDEzLjc0N3Y0LjU3MUg0LjU4MnY5LjE0M3ptNC41ODIgMHYtNC41N2gxMy43NDd2NC41N0g5LjE2NHptMCA5LjE0M3YtNC41NzFoNC41ODN2NC41NzFIOS4xNjR6IiBmaWxsPSIjRkQzMjQ2Ii8+PC9zdmc+" alt="Mindee Badge"/>
     </a>
     
-- 🌱 &nbsp;Currently Learning about Effective AI Models serving (Triton Server) and Asynchronous Applications deployment (FastAPI - RabbitMQ - Celery).
+- 🌱 &nbsp;Currently Learning about Effective AI Models serving and Asynchronous Applications deployment.
 
 - 😍 &nbsp;I'm passionate about open source and new technologies.
  
