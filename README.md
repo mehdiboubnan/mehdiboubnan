@@ -25,12 +25,12 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am Mehdi, a Data Scientist from France 🇫🇷, born in Morocco 🇲🇦.
+I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, born in Morocco 🇲🇦.
 - 🔭 &nbsp;I’m currently working on **Key Information Extraction** and **Text Recognition** @<a href="https://mindee.com/">
       <img src="https://img.shields.io/badge/-Mindee-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHBhdGggZD0iTTE4LjMyOSAwaDEzLjc0NnYzMkgxOC4zM1YyNy40M2g5LjE2NFY0LjU3MkgxOC4zM1Ywek00LjU4MiAxMy43MTRWMjcuNDNoOS4xNjVWMzJIMFYwaDEzLjc0N3Y0LjU3MUg0LjU4MnY5LjE0M3ptNC41ODIgMHYtNC41N2gxMy43NDd2NC41N0g5LjE2NHptMCA5LjE0M3YtNC41NzFoNC41ODN2NC41NzFIOS4xNjR6IiBmaWxsPSIjRkQzMjQ2Ii8+PC9zdmc+" alt="Mindee Badge"/>
     </a>
     
-- 🌱 &nbsp;Currently Learning about Effective Python development.
+- 🌱 &nbsp;Currently Learning about Effective AI Models serving (Triton Server) and Asynchronous Applications deployment (FastAPI - RabbitMQ - Celery).
 
 - 😍 &nbsp;I'm passionate about open source and new technologies.
  
@@ -40,7 +40,6 @@ I am Mehdi, a Data Scientist from France 🇫🇷, born in Morocco 🇲🇦.
 ### 🛠️ &nbsp;Tech Stack
 - Programming languages : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-A8A4A3?style=flat&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - Libraries & frameworks : 
@@ -52,9 +51,17 @@ I am Mehdi, a Data Scientist from France 🇫🇷, born in Morocco 🇲🇦.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-- Continuous Integration :
+- Model serving :
+![Triton Server](https://img.shields.io/badge/Triton_Server-76B900?style=flat&logo=NVIDIA&logoColor=white)
+- Application serving :
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=Celery&logoColor=white)
+- MLOps & CI/CD :
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argocd-EF7B4D?&style=plastic&logo=Argo&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-06194E?style=flat&logoColor=white)
 - Cloud : 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
