@@ -76,7 +76,7 @@ I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, b
 
 <p align="center">
 <a href="https://github.com/mehdiboubnan">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiboubnan&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="mehdiboubnan" />  
+<img align="center" src="https://github-stats-ten-umber.vercel.app/api?username=mehdiboubnan&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="mehdiboubnan" />  
 </a>
 <a href="https://github.com/mehdimindee">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdimindee&custom_title=My%20Work%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdimindee" />  
