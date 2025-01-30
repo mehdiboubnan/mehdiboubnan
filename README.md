@@ -75,7 +75,7 @@ I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, b
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/boubnanm">
+<a href="https://github.com/mehdiboubnan">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=boubnanm&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="boubnanm" />  
 </a>
 <a href="https://github.com/mehdimindee">
