@@ -2,17 +2,17 @@
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h3>  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/mehdi-boubnan/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/MehdiBoubnan">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <a href="https://github.com/mehdimindee">
-      <img src="https://img.shields.io/badge/Work Account-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Website-E34F26?style=for-the-badge&logo=htmx&logoColor=black" alt="Github Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/mehdi-boubnan/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiA%2FPjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU2LjY5MyA1Ni42OTMiIGhlaWdodD0iNTYuNjkzcHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1Ni42OTMgNTYuNjkzIiB3aWR0aD0iNTYuNjkzcHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxwYXRoIGQ9Ik0zMC4wNzEsMjcuMTAxdi0wLjA3N2MtMC4wMTYsMC4wMjYtMC4wMzMsMC4wNTItMC4wNSwwLjA3N0gzMC4wNzF6Ii8%2BPHBhdGggZD0iTTQ5LjI2NSw0LjY2N0g3LjE0NWMtMi4wMTYsMC0zLjY1MSwxLjU5Ni0zLjY1MSwzLjU2M3Y0Mi42MTNjMCwxLjk2NiwxLjYzNSwzLjU2MiwzLjY1MSwzLjU2Mmg0Mi4xMiAgIGMyLjAxOSwwLDMuNjU0LTEuNTk3LDMuNjU0LTMuNTYyVjguMjNDNTIuOTE5LDYuMjYyLDUxLjI4Myw0LjY2Nyw0OS4yNjUsNC42Njd6IE0xOC40NzUsNDYuMzA0aC03LjQ2NVYyMy44NDVoNy40NjVWNDYuMzA0eiAgICBNMTQuNzQzLDIwLjc3N2gtMC4wNWMtMi41MDQsMC00LjEyNC0xLjcyNS00LjEyNC0zLjg4YzAtMi4yMDMsMS42Ny0zLjg4LDQuMjIzLTMuODhjMi41NTQsMCw0LjEyNSwxLjY3Nyw0LjE3NSwzLjg4ICAgQzE4Ljk2NywxOS4wNTIsMTcuMzQ1LDIwLjc3NywxNC43NDMsMjAuNzc3eiBNNDUuMzk0LDQ2LjMwNGgtNy40NjVWMzQuMjg2YzAtMy4wMTgtMS4wOC01LjA3OC0zLjc4MS01LjA3OCAgIGMtMi4wNjIsMC0zLjI5LDEuMzg5LTMuODMxLDIuNzMxYy0wLjE5NywwLjQ3OS0wLjI0NSwxLjE0OS0wLjI0NSwxLjgyMXYxMi41NDNoLTcuNDY1YzAsMCwwLjA5OC0yMC4zNTQsMC0yMi40NTloNy40NjV2My4xNzkgICBjMC45OTItMS41MywyLjc2Ni0zLjcwOSw2LjcyOS0zLjcwOWM0LjkxMSwwLDguNTk0LDMuMjExLDguNTk0LDEwLjExVjQ2LjMwNHoiLz48L2c%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!-- <a href="https://twitter.com/MehdiBoubnan">
+      <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a> -->
   </div>
-  <img src="https://komarev.com/ghpvc/?username=boubnanm&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mehdiboubnan&style=flat-square&color=blue" alt=""/>
 </div>
 <!-- <div align="center">
   <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="200"/>
@@ -20,9 +20,10 @@
 </div> -->
 
 <div align="center">
-<img alt="Night Coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="370" align="center"/>
+<img alt="Night Coding" src="https://i.ibb.co/zW1VDN73/man.png" width="370" align="center"/>
 </div> 
-
+<!-- https://ibb.co/ZR3z7NYQ -->
+<!-- https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, born in Morocco 🇲🇦.
@@ -76,9 +77,9 @@ I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, b
 
 <p align="center">
 <a href="https://github.com/mehdiboubnan">
-<img align="center" src="https://github-stats-ten-umber.vercel.app/api?username=mehdiboubnan&custom_title=My%20Personal%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="mehdiboubnan" />  
+<img align="center" src="https://github-stats-ten-umber.vercel.app/api?username=mehdiboubnan&custom_title=My%20GitHub%20Stats&include_all_commits=True&count_private=true&rank_icon=github&show_icons=true&locale=en&theme=dark&layout=compac" width="380" alt="mehdiboubnan" />  
 </a>
-<a href="https://github.com/mehdimindee">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdimindee&custom_title=My%20Work%20GitHub%20Stats&include_all_commits=True&count_private=true&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdimindee" />  
-</a>
+<!-- <a href="https://github.com/mehdimindee">
+<img align="center" src="https://github-readme-stats-six-olive-18.vercel.app/api?username=mehdimindee&custom_title=My%20Work%20GitHub%20Stats&include_all_commits=True&count_private=true&rank_icon=github&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdimindee" />  
+</a> -->
 </p>
