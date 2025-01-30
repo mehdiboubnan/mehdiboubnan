@@ -62,14 +62,14 @@ I am Mehdi, a Data Scientist & Machine Learning Engineer from France 🇫🇷, b
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argocd-EF7B4D?&style=plastic&logo=Argo&logoColor=white)
-![ClearML](https://img.shields.io/badge/ClearML-06194E?style=flat&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-06194E?style=flat&logoColor=white&logo=)
 - Cloud : 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 - OS : 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iNTEycHgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJfeDM3XzgtbWljcm9zb2Z0Ij48Zz48Zz48cGF0aCBkPSJNMjcwLjkxMiwyNDEuMDQ5aDIyMy42OTFWMzEuNzA4YzAtOC4yNi02LjY4LTE0Ljk1OC0xNC45MTQtMTQuOTU4SDI3MC45MTJWMjQxLjA0OXogICAgICBNMjcwLjkxMiwyNDEuMDQ5IiBzdHlsZT0iZmlsbDojNUFDRjVGOyIvPjxwYXRoIGQ9Ik0yNDEuMDksMjQxLjA0OVYxNi43NUgzMi4zMTNjLTguMjM2LDAtMTQuOTE2LDYuNjk4LTE0LjkxNiwxNC45NTh2MjA5LjM0MUgyNDEuMDl6ICAgICAgTTI0MS4wOSwyNDEuMDQ5IiBzdHlsZT0iZmlsbDojRjg0NDM3OyIvPjxwYXRoIGQ9Ik0yNDEuMDksMjcwLjk1M0gxNy4zOTd2MjA5LjM0M2MwLDguMjUxLDYuNjgsMTQuOTU0LDE0LjkxNiwxNC45NTRIMjQxLjA5VjI3MC45NTN6ICAgICAgTTI0MS4wOSwyNzAuOTUzIiBzdHlsZT0iZmlsbDojMjI5OUY4OyIvPjxwYXRoIGQ9Ik0yNzAuOTEyLDI3MC45NTNWNDk1LjI1aDIwOC43NzdjOC4yMzQsMCwxNC45MTQtNi43MDMsMTQuOTE0LTE0Ljk1NFYyNzAuOTUzSDI3MC45MTJ6ICAgICAgTTI3MC45MTIsMjcwLjk1MyIgc3R5bGU9ImZpbGw6I0ZGQzEwNzsiLz48L2c+PC9nPjwvZz48ZyBpZD0iTGF5ZXJfMSIvPjwvc3ZnPg==&logoColor=white)
 - IDE :
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
