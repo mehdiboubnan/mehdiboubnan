@@ -101,7 +101,7 @@ I am Mehdi, a Senior AI & Platform Engineer from France 🇫🇷, born in Morocc
 
 <p align="center">
 <a href="https://github.com/mehdiboubnan">
-<img align="center" src="https://github-stats-ten-umber.vercel.app/api?username=mehdiboubnan&custom_title=My%20GitHub%20Stats&include_all_commits=True&count_private=true&rank_icon=github&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdiboubnan" />  
+<img align="center" src="https://git-stats-fork.vercel.app/api?username=mehdiboubnan&custom_title=My%20GitHub%20Stats&include_all_commits=True&count_private=true&rank_icon=github&show_icons=true&locale=en&theme=dark&layout=compact" width="380" alt="mehdiboubnan" />  
 </a>
 </p>
 
